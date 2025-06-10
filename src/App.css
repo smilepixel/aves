@@ -1,0 +1,25 @@
+#root {
+width:1550px;
+height:1200px;
+display: flex !important;
+justify-content: center !important;
+color-scheme: light dark;
+color: rgba(255, 255, 255, 0.87);
+background-color: #242424;
+}
+
+#div_1 {
+width:1500px;
+height:1200px;
+display: flex !important;
+justify-content: center !important;
+}
+
+#div_2 {
+width:1250px;
+height:1100px;
+display: flex !important;
+justify-content: center !important;
+}
+
+

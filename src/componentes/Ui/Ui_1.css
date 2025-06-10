@@ -1,0 +1,23 @@
+.F_2{
+display: flex;
+flex-direction: column;
+}
+
+.F_3{
+font-size: 15px;
+}
+
+.F_4{
+font-size: 10px;
+}
+
+.F{
+width:30%;
+height:50%;
+margin-top: 10%;
+margin-left: 4%;
+display: flex;
+justify-content: center;
+border-radius: 12%;
+border: rgb(211, 248, 221) 20px solid;
+}

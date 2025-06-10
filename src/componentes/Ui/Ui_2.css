@@ -1,0 +1,9 @@
+.V{
+width:110%;
+height:50%;
+margin-top: 10%;
+border-radius: 12%;
+display: flex;
+justify-content: center;
+border: rgb(0, 0, 0) 2px solid;
+}
