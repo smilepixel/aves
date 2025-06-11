@@ -75,19 +75,19 @@ T_2={"selva"}
 <Ui_1
 T_1={"dieta"}
 
-T_2={"plantas"}
+T_2={"semillas y frutas"}
 />
 
 <Ui_1
-T_1={"color"}
+T_1={"esperanza de vida"}
 
-T_2={"rojo"}
+T_2={"10 - 15 años"}
 />
 
 <Ui_1
 T_1={"tamaño"}
 
-T_2={"89cm"}
+T_2={"32cm de largo"}
 />
 </div>
 
@@ -101,7 +101,7 @@ T_1={"habita aqui en guatemala y la he visto muchas veces"}
 />
 
 <Ui_3
-T_1={"un conocido-amigo tiene esta especie de mascota"}
+T_1={"una conocida-amiga tiene esta especie de mascota"}
 />
 </div>
 
